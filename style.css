@@ -63,11 +63,66 @@ h2 {
 }
 
 #below {
-    margin-top: 150px;
+    margin-top: 110px;
     margin-right: 80px;
 }
 
 .middle {
     display: flex;
     background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+
+.my {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.make-up img {
+    width: 90%;
+    padding-top: 35px;
+    padding-left: 25px;
+
+}
+
+.make-up {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+}
+
+
+
+.beside {
+    display: flex;
+
+}
+
+.box {
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 60px;
+    margin-left: 4%;
+    margin-right: 7%;
+    border-radius: 20px;
+}
+
+#one {
+    padding-left: 120px;
+    padding-bottom: 20px;
+}
+
+#two {
+    padding-left: 300px;
+}
+
+#three {
+    padding-left: 410px;
+
 }
