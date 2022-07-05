@@ -126,3 +126,24 @@ h2 {
     padding-left: 410px;
 
 }
+
+footer {
+    text-align: center;
+    margin-top: 60px;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#eat {
+    color: orange;
+
+}
+
+.foot {
+    color: gray;
+}
+
+#live {
+    color: white;
+}
